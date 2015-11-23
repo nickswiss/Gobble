@@ -23,7 +23,7 @@
 		0137051B1BFFC4690027E33E /* scratchbox.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 013705161BFFC4690027E33E /* scratchbox.jpeg */; };
 		0137051C1BFFC4690027E33E /* slate-crystal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 013705171BFFC4690027E33E /* slate-crystal.jpg */; };
 		0137051D1BFFC4690027E33E /* slate-glass.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 013705181BFFC4690027E33E /* slate-glass.jpg */; };
-		0137051E1BFFC4690027E33E /* wingbone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 013705191BFFC4690027E33E /* wingbone.jpg */; };
+		01879B6A1C03B80F00725EFE /* wingbone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 01879B691C03B80F00725EFE /* wingbone.jpg */; };
 		01DD193E1BFFE88E00098048 /* tube.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01DD193D1BFFE88E00098048 /* tube.jpeg */; };
 		01DD19401BFFE97D00098048 /* pushpull.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01DD193F1BFFE97D00098048 /* pushpull.jpeg */; };
 		59B3EDE1CD4AD1D5EE5082F8 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8429A7F933E19A011403D750 /* Pods.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
@@ -69,7 +69,7 @@
 		013705161BFFC4690027E33E /* scratchbox.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = scratchbox.jpeg; sourceTree = "<group>"; };
 		013705171BFFC4690027E33E /* slate-crystal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "slate-crystal.jpg"; sourceTree = "<group>"; };
 		013705181BFFC4690027E33E /* slate-glass.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "slate-glass.jpg"; sourceTree = "<group>"; };
-		013705191BFFC4690027E33E /* wingbone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wingbone.jpg; sourceTree = "<group>"; };
+		01879B691C03B80F00725EFE /* wingbone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wingbone.jpg; sourceTree = "<group>"; };
 		01DD193D1BFFE88E00098048 /* tube.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tube.jpeg; sourceTree = "<group>"; };
 		01DD193F1BFFE97D00098048 /* pushpull.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pushpull.jpeg; sourceTree = "<group>"; };
 		51B1E15B838750673A5AB3D8 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -179,7 +179,7 @@
 				013705161BFFC4690027E33E /* scratchbox.jpeg */,
 				013705171BFFC4690027E33E /* slate-crystal.jpg */,
 				013705181BFFC4690027E33E /* slate-glass.jpg */,
-				013705191BFFC4690027E33E /* wingbone.jpg */,
+				01879B691C03B80F00725EFE /* wingbone.jpg */,
 			);
 			name = CallImages;
 			sourceTree = "<group>";
@@ -312,7 +312,7 @@
 				013705131BFFC1300027E33E /* slate.mp3 in Resources */,
 				0137051D1BFFC4690027E33E /* slate-glass.jpg in Resources */,
 				013705141BFFC1300027E33E /* crystal.mp3 in Resources */,
-				0137051E1BFFC4690027E33E /* wingbone.jpg in Resources */,
+				01879B6A1C03B80F00725EFE /* wingbone.jpg in Resources */,
 				0137051C1BFFC4690027E33E /* slate-crystal.jpg in Resources */,
 				013704E71BFFAC160027E33E /* LaunchScreen.storyboard in Resources */,
 				013704E41BFFAC160027E33E /* Assets.xcassets in Resources */,
