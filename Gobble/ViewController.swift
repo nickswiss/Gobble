@@ -51,17 +51,11 @@ class ViewController: UIViewController {
         
         playButton.titleLabel?.font = UIFont.fontAwesomeOfSize(72)
         playButton.setTitle(String.fontAwesomeIconWithName(.PlayCircleO), forState: .Normal)
-        playButton.layer.shadowColor = UIColor.blackColor().CGColor
-        playButton.layer.shadowOffset = CGSizeMake(5, 5)
-        playButton.layer.shadowRadius = 5
-        playButton.layer.shadowOpacity = 1.0
+
         
-        stopButton.titleLabel?.font = UIFont.fontAwesomeOfSize(50)
+        stopButton.titleLabel?.font = UIFont.fontAwesomeOfSize(48)
         stopButton.setTitle(String.fontAwesomeIconWithName(.Stop), forState: .Normal)
-        stopButton.layer.shadowColor = UIColor.blackColor().CGColor
-        stopButton.layer.shadowOffset = CGSizeMake(5, 5)
-        stopButton.layer.shadowRadius = 5
-        stopButton.layer.shadowOpacity = 1.0
+
     }
     
     override func viewWillAppear(animated: Bool) {
